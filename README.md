@@ -89,3 +89,6 @@ This project provides structured insights into job market trends and helps:
 - 🎓 Job seekers identify high-demand roles  
 - 🏢 Companies understand hiring patterns  
 - 📈 Analysts explore salary and location trends  
+ **AUTHOR**
+  **NAME**  **CH MURALIKRISHNA**
+  **EMAIL** **mknks.2024@gmail.com**
